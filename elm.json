@@ -1,0 +1,26 @@
+{
+    "type": "package",
+    "name": "andre-dietrich/elm-conditional",
+    "license": "BSD-3-Clause",
+    "summary": "Piping with conditions, but without if-then-else statements",
+    "version": "1.0.0",
+    "exposed-modules": [
+      "Conditional",
+      "Conditional.Array",
+      "Conditional.Bitwise",
+      "Conditional.Char",
+      "Conditional.Dict",
+      "Conditional.List",
+      "Conditional.Maybe",
+      "Conditional.Result",
+      "Conditional.Set",
+      "Conditional.String"
+    ],
+    "elm-version": "0.19.0 <= v < 0.20.0",
+    "dependencies": {
+        "direct": {
+            "elm/core": "1.0.5"
+        }
+    },
+    "test-dependencies": {}
+}
