@@ -1,11 +1,11 @@
-module Conditional.Char exposing (..)
+module Conditional.Char exposing (toUpperIf, toLowerIf, toLocaleUpperIf, toLocaleLowerIf)
 
 {-| A set of conditional functions for maipulating Chars
 
 
 # Conversion
 
-@docs toUpper, toLower, toLocaleUpper, toLocaleLower
+@docs toUpperIf, toLowerIf, toLocaleUpperIf, toLocaleLowerIf
 
 -}
 

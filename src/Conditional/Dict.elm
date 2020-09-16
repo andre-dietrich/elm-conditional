@@ -14,7 +14,7 @@ module Conditional.Dict exposing
 
 # Transform
 
-@docs mapIf, filterIf, partitionIf
+@docs mapIf, filterIf
 
 
 # Combine

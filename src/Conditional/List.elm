@@ -12,12 +12,12 @@ module Conditional.List exposing
 
 # Create
 
-@docs repeatIf, addIf, addWhen, attachIf, attachWhen
+@docs addIf, addWhen, attachIf, attachWhen
 
 
 # Transform
 
-@docs mapIf, indexedMapIf, filterIf, filterMapIf
+@docs mapIf, filterIf, filterMapIf
 
 
 # Utilities
@@ -27,7 +27,7 @@ module Conditional.List exposing
 
 # Combine
 
-@docs appendIf, appendWhen, concatMapIf, intersperseIf, mapIf
+@docs appendIf, appendWhen, concatMapIf, intersperseIf
 
 
 # Sort

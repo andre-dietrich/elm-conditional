@@ -17,7 +17,7 @@ module Conditional.String exposing
 
 # Building and Splitting
 
-@docs addIf, addWhen, attachIf, attachWhen, concatIf, splitIf, joinIf
+@docs addIf, addWhen, attachIf, attachWhen
 
 
 # Get Substrings
